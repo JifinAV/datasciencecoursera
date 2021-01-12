@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera Datascience Projects
+Coursera Datascience Projects as part of courses.
